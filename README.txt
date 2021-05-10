@@ -15,3 +15,6 @@ Possible improvements:
 - Adding textures to the game. This requires modifying the display class and finding suitable platformer assets.
 - Improving physics. Acceleration, friction and jump forgiveness would make movement more realistic and smooth.
 - Adding monsters to the game. Enemies would make the game more challenging.
+
+Note:
+Game should be run using local server
