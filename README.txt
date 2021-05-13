@@ -16,5 +16,5 @@ Possible improvements:
 - Improving physics. Acceleration, friction and jump forgiveness would make movement more realistic and smooth.
 - Adding monsters to the game. Enemies would make the game more challenging.
 
-Note:
-Game should be run using local server
+Game is live at
+https://devdelion.github.io/simple-platformer/src/
